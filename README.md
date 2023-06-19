@@ -1,6 +1,6 @@
 # Welcome to Remix Kudos App!
 
-- This app allows user to send kudos to other others.
+- This app allows user to send kudos to other users.
 - Built using remix framework [Remix Docs](https://remix.run/docs)
 
 ## Development
